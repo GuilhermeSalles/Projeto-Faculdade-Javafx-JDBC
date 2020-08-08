@@ -22,14 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-# build folders 
+# build folders
 bin/
-target/ 
-nbproject/private/ 
+target/
+nbproject/private/
 build/
-nbbuild/ 
-dist/ 
+nbbuild/
+dist/
 nbdist/
 
-#Eclipse
+# Eclipse
 .settings/
